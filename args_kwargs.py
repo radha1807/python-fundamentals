@@ -52,3 +52,7 @@ print (double(2))
 double_lambda = lambda x:x*2
 double(5)
 print(double_lambda(5))
+
+
+double = lambda a,b:a+b
+print(double(2,3))
