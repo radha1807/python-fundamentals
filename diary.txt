@@ -1,0 +1,4 @@
+learned file i/o
+practiced questions
+learned functions and lambda
+misc questions done
